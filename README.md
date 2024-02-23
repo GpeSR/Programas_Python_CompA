@@ -8,3 +8,9 @@ email: 38192134@uaz.edu.mx
 - P02-area-circulo
 - P03-area-triangulo
 - P04-pago-trabajador
+
+##  Actividad 2
+- P05-promedio-de-calificaciones
+- P06-operaciones-matematicas
+- P07-funciones-trigonometricas
+- P08-dividir-cifras
