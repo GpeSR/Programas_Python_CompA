@@ -26,3 +26,5 @@ salida = (f"\nNombre del trabajador: {nombre}\n"
           f"Total de pago      : {total}")
 
 print(salida)
+
+print("\nProceso terminado ")

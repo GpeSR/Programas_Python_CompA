@@ -12,4 +12,4 @@ if n1 + n2 == n3:
 else:
     print("\nSon distintos")
 
-print("\nProceso terminado :) ")
+print("\nProceso terminado ")
