@@ -2,8 +2,8 @@
 
 import os; os.system("cls")
 
-print("Conversion de temperaturas de Centigrados a Fahrenheit o viceversa ... \n")
-opcion = str.upper(input("Convertir a [C]entigrados o convertir a [F]ahrenheit ? "))
+print("Conversion de temperaturas de Centigrados <--> Fahrenheit ... \n")
+opcion = str.upper(input("[C]entigrados \n[F]ahrenheit \nSelecciona la conversion ? ")) # str.upper convierte a mayusculas
 
 if opcion == 'C':
     print("\nConvirtiendo a Centigrados...")
@@ -15,3 +15,5 @@ else :
     temp = float(input("Ingrese los Grados Centigrados ? "))
     res = (temp * 9 / 5) + 32
     print(f"\n{temp} grados Centigrados, equivalen a {res:.2f} grados Fahrenheit")
+
+print("\nProceso terminado :) ")

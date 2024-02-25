@@ -11,3 +11,5 @@ if n1 + n2 == n3:
     print("\nSon iguales")
 else:
     print("\nSon distintos")
+
+print("\nProceso terminado :) ")

@@ -11,3 +11,5 @@ if numero < 0:
     print("\nEl numero es negativo")
 if numero == 0:
     print("\nEl numero es 0")
+
+print("\nProceso terminado :) ")
