@@ -22,3 +22,9 @@ email: 38192134@uaz.edu.mx
 - P12-volumen-cilindro
 - P13-calculo-tiempo
 - P14-numero-suerte
+
+## Actividad 3
+- P15-verificar-numero
+- P16-verificar-suma
+- P17-convertir-temperaturas
+- P18-paga-trabajador-v2
