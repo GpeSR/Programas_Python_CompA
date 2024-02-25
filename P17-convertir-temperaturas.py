@@ -3,7 +3,7 @@
 import os; os.system("cls")
 
 print("Conversion de temperaturas de Centigrados a Fahrenheit o viceversa ... \n")
-opcion = str.upper(input("Convertir a [C]entigrados o convertir a [F]ahrenheit "))
+opcion = str.upper(input("Convertir a [C]entigrados o convertir a [F]ahrenheit ? "))
 
 if opcion == 'C':
     print("\nConvirtiendo a Centigrados...")
