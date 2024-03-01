@@ -28,3 +28,11 @@ email: 38192134@uaz.edu.mx
 - P16-verificar-suma
 - P17-convertir-temperaturas
 - P18-paga-trabajador-v2
+
+## Actividad 4
+- P19-verificar-suma
+- P20-ley-de-Newton
+- P21-aceptar-estudiante
+- P21-aceptar-estudiante-v2
+- P22-tipo-angulo
+
