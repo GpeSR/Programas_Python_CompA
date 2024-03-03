@@ -37,12 +37,12 @@ email: 38192134@uaz.edu.mx
 - P22-tipo-angulo
 
 ## Tarea 2
-P23-numeros-consecutivos
-P24-numero-mayor
-P25-dia-de-la-semana
-P26-numeros-romanos
-P27-calculo-de-notas
-P28-aceptar-estudiante-v2
+- P23-numeros-consecutivos
+- P24-numero-mayor
+- P25-dia-de-la-semana
+- P26-numeros-romanos
+- P27-calculo-de-notas
+- P28-aceptar-estudiante-v2
 
 ## Actividad 5
 - P29-numeros-1-100
