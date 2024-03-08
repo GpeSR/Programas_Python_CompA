@@ -50,3 +50,9 @@ email: 38192134@uaz.edu.mx
 - P31-numeros-1-200-10
 - P32-numeros-suma-100
 - P33-conteo-numeros
+
+## Actividad 6
+- P34-tabla-conversion
+- P35-conjetura-collatz
+- P36-tabla-multiplicar
+- P37-tabla-multiplicar-v2
