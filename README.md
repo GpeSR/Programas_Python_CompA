@@ -56,3 +56,6 @@ email: 38192134@uaz.edu.mx
 - P35-conjetura-collatz
 - P36-tabla-multiplicar
 - P37-tabla-multiplicar-v2
+
+## Primer examen parcial 
+- P44-primer-examen-parcial
