@@ -48,29 +48,28 @@ while(True):
             else :
                 total = subtotal 
 
+            salida = (f"\n----------------------------------------\n"
+                f"           Resumen de la venta\n"
+                f"----------------------------------------\n"
+                f"   Pedido          : {cant}\n"
+                f"   Tipo de usuario : {usuario}\n"
+                f"   Tipo de paquete : {paquete}\n"
+                f"   Subtotal        : {subtotal}\n"
+                f"   Descuento       : {descuento} {porDesc}\n"
+                f"   Total           : {total}\n"
+                f"----------------------------------------\n")
+        
+            print(salida)
+
+            suma = suma + total
                 
         else :
             print("\nLa opción seleccionada no es válida")
         
     else :
-        print("\n La opción seleccionada no es válida")
+        print("\nLa opción seleccionada no es válida")
 
-    salida = (f"\n----------------------------------------\n"
-            f"           Resumen de la venta\n"
-            f"----------------------------------------\n"
-            f"   Pedido          : {cant}\n"
-            f"   Tipo de usuario : {usuario}\n"
-            f"   Tipo de paquete : {paquete}\n"
-            f"   Subtotal        : {subtotal}\n"
-            f"   Descuento       : {descuento} {porDesc}\n"
-            f"   Total           : {total}\n"
-            f"----------------------------------------\n")
-    
-    print(salida)
-    
-    suma = suma + total
-
-    res = input("\nDeseas continuar (S/N) ? ")
+    res = input("\nDesea continuar (S/N) ? ")
     if res.upper() == "N": break
 
 print(f"\nImporte Total de la Venta: {suma}")
