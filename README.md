@@ -57,5 +57,13 @@ email: 38192134@uaz.edu.mx
 - P36-tabla-multiplicar
 - P37-tabla-multiplicar-v2
 
+## Tarea 3
+- P38-impares-ascendente
+- P39-pares-descendente
+- P40-promedio-suma
+- P41-suma-200
+- P42-conversion-temperaturas
+- P43-numero-mayor
+
 ## Primer examen parcial 
 - P44-primer-examen-parcial
