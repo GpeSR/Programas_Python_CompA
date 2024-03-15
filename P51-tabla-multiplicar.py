@@ -1,4 +1,4 @@
-# Imprimir la tabla de multiplicar que el usuario pida hasta donde lo apida 
+# Imprimir la tabla de multiplicar que el usuario pida hasta donde lo pida 
 
 import os
 
