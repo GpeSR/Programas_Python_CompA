@@ -81,3 +81,10 @@ email: 38192134@uaz.edu.mx
 - P52-tablas-multiplicar-v2
 - P53-piramide-caracter
 - P54-factorial-numeros
+
+## Tarea 4
+- P55-numeros-10-en-10
+- P56-suma-pares-2-n
+- P57-secuencia-numeros-1
+- P58-secuencia-numeros-2
+- P59-secuencia-terminos-1
