@@ -95,3 +95,10 @@ email: 38192134@uaz.edu.mx
 - P62-agregar-lista
 - P63-remover-lista
 - P64-iterar-lista
+
+## Actividad 10
+- P65–procesar-calificaciones
+- P66–sumar-listas
+- P67-dia-paga
+- P68-nombres-edades
+- P69-listas-aleatorios
