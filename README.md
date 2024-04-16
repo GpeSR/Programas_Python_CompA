@@ -120,3 +120,11 @@ email: 38192134@uaz.edu.mx
 - P79-procesar-pizza
 - P80-lista-dic-auto
 - P81-lista-dic-estudiante
+
+## Tarea 6
+- P82-crear-acceder-diccionario
+- P83-modificar-diccionario
+- P84-agregar-diccionario
+- P85-eliminar-diccionario
+- P86-procesar-diccionario
+- P87-contar-caracteres
