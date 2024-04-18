@@ -128,3 +128,11 @@ email: 38192134@uaz.edu.mx
 - P85-eliminar-diccionario
 - P86-procesar-diccionario
 - P87-contar-caracteres
+
+## Actividad 13
+- P88-trabajando-conjuntos
+- P89-operaciones-conjuntos
+
+## Tarea 7
+- P90-personas
+- P91-numeros
