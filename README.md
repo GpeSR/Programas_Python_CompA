@@ -137,3 +137,5 @@ email: 38192134@uaz.edu.mx
 - P90-personas
 - P91-numeros
 
+## Segundo examen parcial 
+- P92-segundo-examen-parcial
