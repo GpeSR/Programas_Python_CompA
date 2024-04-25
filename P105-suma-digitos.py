@@ -1,0 +1,10 @@
+def sumadigitos(n):
+    suma = 0
+    while n != 0:
+        dig = n % 10
+        suma = suma + dig
+        n = n // 10
+    return suma
+
+n = int(input("Ingrese un numero entero para sumar sus digitos ? "))
+print(f"El numero es {n} y la suma de sus digitos es {sumadigitos(n)}")

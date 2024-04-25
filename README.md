@@ -139,3 +139,21 @@ email: 38192134@uaz.edu.mx
 
 ## Segundo examen parcial 
 - P92-segundo-examen-parcial
+
+## Actividad 14
+- P93-fincion
+- P94-funcion-parametro
+- P95-funcion-parametros
+- P96-funcion-mas-parametros
+- P97-funcion-parametros-nombre
+- P98-funcion-parametros-por-defecto
+- P99-funcion-retorno
+- P100-tabla-multiplicar
+- P101-cuadro-caracter
+- P102-numero-mayor
+- P103-estacion-año
+- P104-temperatura
+- P105-suma-digitos
+- P106-factorial
+- P107-calificacion-letra
+- P108-suma-rango
