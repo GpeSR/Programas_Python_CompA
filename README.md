@@ -175,3 +175,8 @@ email: 38192134@uaz.edu.mx
 - P120modulofunciones
 - P121-usa-funciones
 - P122-modulos-integrados
+
+## Tarea 9
+- P123-suma-digitos-lista
+- P124-calcula-factoriales
+- P125-estadisticas-basicas
