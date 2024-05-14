@@ -186,3 +186,6 @@ email: 38192134@uaz.edu.mx
 - P127-empleado2
 - P128-circulo
 - P129-rectangulo
+
+## Tarea 10
+- P130-articulo
