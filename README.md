@@ -189,3 +189,10 @@ email: 38192134@uaz.edu.mx
 
 ## Tarea 10
 - P130-articulo
+
+## Actividad 17
+- P131-ventas
+
+## Tercer examen parcial 
+- P132-tecer-examen-parcial
+
